@@ -1,5 +1,5 @@
 # DataSciencePortfolio
-A collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting.
+A collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting. This also gives me the perfect opportunity to manage this repo via git through git bash.
 
 ## Contents
 - PythonWebScraping:
