@@ -5,6 +5,9 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 - PythonWebScraping:
   - WebScrapingASong: Web scraped "she's a rebel" by GreenDay by using **BeautifulSoup**. Used a bit of REGEX and `INSPECT ELEMENT` to scrape clean/required lyric.
   - DollarTreeOntarioLocations: Web scraped Dollar Tree locations present in Ontario by using **BeautifulSoup**. Scraped the addresses and geolocations by working with json, regex and `INSPECT ELEMENT`. Plotted the locations of the stores on a map in python.
+- BasicCodingProblems:
+  - Python:
+    - 1_217_ContainsDuplicate.ipynb: first practice python challenge from leetcode. 
 
 ## In Progress
 - PythonWebScraping:
