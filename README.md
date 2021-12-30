@@ -9,7 +9,9 @@ A collection of selected data science projects to demonstrate skill sets, knowle
   - Python:
     - 1_217_ContainsDuplicate.ipynb: first practice python challenge from leetcode. 
 - MyFitbitSleepCycle:
-  - I bought a Fitbit during my last semester (9th Feb 2021) of university with the intention of tracking and analysing my sleep quality. Extracted my data in json files through an API and analysed my sleeping patterns at different stages of my life (my time from my last semester of uni till I satrted powerlifting post data science bootcamp). Got to do parametric and non parametric tests.
+  - I bought a Fitbit during my last semester (9th Feb 2021) of university with the intention of tracking and analysing my sleep quality. Extracted my data in json files through an API and analysed my sleeping patterns at different stages of my life (my time from my last semester of uni till I satrted powerlifting post data science bootcamp). Got to do parametric and non parametric tests. This project took me 9 days to complete.
+- RapLyricsGenerator:
+  - I was catching up with a friend from Bahrain over a video call sometime in November 2021. That's when we brought up about how we used to share earphones and listen to rap music together on his mp3 on the school bus back home. That got us talking about our current taste in music and our appreciation for lyrical rap. That's when I thought of building a rap lyrics generator achieved through a Recurrent Neural Network. This project took me 11 days to complete and the most tedious part was this project was extracting data (through Genius API) and debugging the aws related code. I locally deployed the generator on a web application through streamlit. In addition to that, the web application accesses the trained RNN model from an AWS S3 bucket on which I'm hosting on. 
 
 ## In Progress
 - PythonWebScraping:
