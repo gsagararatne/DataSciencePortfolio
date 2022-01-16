@@ -1,7 +1,7 @@
 # FitbitSleepAnalysis
 Analysing my quality of sleep and activity levels during different parts of my life.
 
-Video summary: https://youtu.be/qwMC3FuT74M
+Video summary: COMING SOON
 
 ## Notebooks
 - ExtractingFitbitJsonData: The purpose of this notebook is to extract data from a fitbit API into respective json files.
