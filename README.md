@@ -7,7 +7,11 @@ A collection of selected data science projects to demonstrate skill sets, knowle
   - DollarTreeOntarioLocations: Web scraped Dollar Tree locations present in Ontario by using **BeautifulSoup**. Scraped the addresses and geolocations by working with json, regex and `INSPECT ELEMENT`. Plotted the locations of the stores on a map in python.
 - BasicCodingProblems:
   - Python:
-    - 1_217_ContainsDuplicate.ipynb: first practice python challenge from leetcode. 
+    - 1_217_ContainsDuplicate
+    - 1_52_MaximumSubarray
+    - 2_1_TwoSum
+    - 2_88_MergeSortedArray
+    - 3_350_IntersectionOfTwoArraysII
 - MyFitbitSleepCycle:
   - I bought a Fitbit during my last semester (9th Feb 2021) of university with the intention of tracking and analysing my sleep quality. Extracted my data in json files through an API and analysed my sleeping patterns at different stages of my life (my time from my last semester of uni till I satrted powerlifting post data science bootcamp). Got to do parametric and non parametric tests. This project took me 9 days to complete.
 - RapLyricsGenerator:
